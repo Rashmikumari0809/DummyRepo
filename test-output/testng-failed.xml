@@ -3,13 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC_Myntra_001$TC_001">
+      <class name="testCases.TC_001">
         <methods>
-          <include name="testcase1"/>
           <include name="startbrowser"/>
+          <include name="ExtentSetup"/>
           <include name="closeBrowser"/>
+          <include name="ExtentTeardown"/>
+          <include name="tearDown"/>
+          <include name="testcase1"/>
         </methods>
-      </class> <!-- testCases.TC_Myntra_001$TC_001 -->
+      </class> <!-- testCases.TC_001 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
