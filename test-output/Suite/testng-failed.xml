@@ -7,7 +7,7 @@
         <methods>
           <include name="startbrowser"/>
           <include name="closeBrowser"/>
-          <include name="testcase1" invocation-numbers="0"/>
+          <include name="testcase1"/>
         </methods>
       </class> <!-- testCases.TC_001 -->
     </classes>

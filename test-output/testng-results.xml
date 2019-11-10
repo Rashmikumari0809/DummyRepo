@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="84233" started-at="2019-11-10T10:26:45Z" finished-at="2019-11-10T10:28:09Z">
+  <suite name="Suite" duration-ms="187723" started-at="2019-11-10T15:08:54Z" finished-at="2019-11-10T15:12:01Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="84233" started-at="2019-11-10T10:26:45Z" finished-at="2019-11-10T10:28:09Z">
+    <test name="Test" duration-ms="187723" started-at="2019-11-10T15:08:54Z" finished-at="2019-11-10T15:12:01Z">
       <class name="testCases.TC_001">
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="startbrowser" is-config="true" duration-ms="18736" started-at="2019-11-10T10:26:47Z" finished-at="2019-11-10T10:27:05Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="startbrowser" is-config="true" duration-ms="22122" started-at="2019-11-10T15:08:55Z" finished-at="2019-11-10T15:09:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
-        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@b7731e64]" name="testcase1" duration-ms="447" started-at="2019-11-10T10:27:05Z" data-provider="Excel" finished-at="2019-11-10T10:27:06Z">
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@c3eb3814]" name="testcase1" duration-ms="440" started-at="2019-11-10T15:09:17Z" data-provider="Excel" finished-at="2019-11-10T15:09:17Z">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="closeBrowser" is-config="true" duration-ms="777" started-at="2019-11-10T10:27:06Z" finished-at="2019-11-10T10:27:07Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="closeBrowser" is-config="true" duration-ms="824" started-at="2019-11-10T15:09:17Z" finished-at="2019-11-10T15:09:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="startbrowser" is-config="true" duration-ms="16228" started-at="2019-11-10T10:27:07Z" finished-at="2019-11-10T10:27:23Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="startbrowser" is-config="true" duration-ms="26508" started-at="2019-11-10T15:09:18Z" finished-at="2019-11-10T15:09:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
-        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@b7731e64]" name="testcase1" duration-ms="470" started-at="2019-11-10T10:27:23Z" data-provider="Excel" finished-at="2019-11-10T10:27:23Z">
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@c3eb3814]" name="testcase1" duration-ms="470" started-at="2019-11-10T15:09:45Z" data-provider="Excel" finished-at="2019-11-10T15:09:45Z">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="closeBrowser" is-config="true" duration-ms="900" started-at="2019-11-10T10:27:23Z" finished-at="2019-11-10T10:27:24Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="closeBrowser" is-config="true" duration-ms="1004" started-at="2019-11-10T15:09:45Z" finished-at="2019-11-10T15:09:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="startbrowser" is-config="true" duration-ms="12001" started-at="2019-11-10T10:27:24Z" finished-at="2019-11-10T10:27:36Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="startbrowser" is-config="true" duration-ms="51719" started-at="2019-11-10T15:09:46Z" finished-at="2019-11-10T15:10:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
-        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@b7731e64]" name="testcase1" duration-ms="331" started-at="2019-11-10T10:27:36Z" data-provider="Excel" finished-at="2019-11-10T10:27:37Z">
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@c3eb3814]" name="testcase1" duration-ms="346" started-at="2019-11-10T15:10:38Z" data-provider="Excel" finished-at="2019-11-10T15:10:38Z">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="closeBrowser" is-config="true" duration-ms="796" started-at="2019-11-10T10:27:37Z" finished-at="2019-11-10T10:27:37Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="closeBrowser" is-config="true" duration-ms="788" started-at="2019-11-10T15:10:38Z" finished-at="2019-11-10T15:10:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="startbrowser" is-config="true" duration-ms="17890" started-at="2019-11-10T10:27:37Z" finished-at="2019-11-10T10:27:55Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="startbrowser" is-config="true" duration-ms="54854" started-at="2019-11-10T15:10:39Z" finished-at="2019-11-10T15:11:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
-        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@b7731e64]" name="testcase1" duration-ms="448" started-at="2019-11-10T10:27:55Z" data-provider="Excel" finished-at="2019-11-10T10:27:56Z">
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@c3eb3814]" name="testcase1" duration-ms="475" started-at="2019-11-10T15:11:34Z" data-provider="Excel" finished-at="2019-11-10T15:11:34Z">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="closeBrowser" is-config="true" duration-ms="916" started-at="2019-11-10T10:27:56Z" finished-at="2019-11-10T10:27:57Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="closeBrowser" is-config="true" duration-ms="1319" started-at="2019-11-10T15:11:34Z" finished-at="2019-11-10T15:11:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="startbrowser" is-config="true" duration-ms="10969" started-at="2019-11-10T10:27:57Z" finished-at="2019-11-10T10:28:08Z">
+        <test-method status="PASS" signature="startbrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="startbrowser" is-config="true" duration-ms="24390" started-at="2019-11-10T15:11:36Z" finished-at="2019-11-10T15:12:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startbrowser -->
-        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@b7731e64]" name="testcase1" duration-ms="545" started-at="2019-11-10T10:28:08Z" data-provider="Excel" finished-at="2019-11-10T10:28:08Z">
+        <test-method status="PASS" signature="testcase1(java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_001@c3eb3814]" name="testcase1" duration-ms="358" started-at="2019-11-10T15:12:00Z" data-provider="Excel" finished-at="2019-11-10T15:12:01Z">
           <params>
             <param index="0">
               <value>
@@ -123,11 +123,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase1 -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@b7731e64]" name="closeBrowser" is-config="true" duration-ms="954" started-at="2019-11-10T10:28:08Z" finished-at="2019-11-10T10:28:09Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testCases.TC_001@c3eb3814]" name="closeBrowser" is-config="true" duration-ms="822" started-at="2019-11-10T15:12:01Z" finished-at="2019-11-10T15:12:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- testCases.TC_001 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
