@@ -6,10 +6,7 @@
       <class name="testCases.TC_001">
         <methods>
           <include name="startbrowser"/>
-          <include name="ExtentSetup"/>
           <include name="closeBrowser"/>
-          <include name="ExtentTeardown"/>
-          <include name="tearDown"/>
           <include name="testcase1"/>
         </methods>
       </class> <!-- testCases.TC_001 -->
